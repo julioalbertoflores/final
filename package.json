@@ -1,0 +1,19 @@
+{
+  "name": "julio",
+  "version": "1.0.0",
+  "description": "mi final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioalbertoflores/final.git"
+  },
+  "author": "julio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioalbertoflores/final/issues"
+  },
+  "homepage": "https://github.com/julioalbertoflores/final#readme"
+}
